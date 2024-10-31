@@ -12,4 +12,3 @@ aliakkayamain/aliakkayamain ✨ is a private ✨ repository because `README.md` 
 You can click on the Preview link to take a look at the changes you have made.
 --->
 
-Translated with DeepL.com (free version)
