@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Ali Akkaya</h1>
 
 <p align="center">
-  <img src="\doc\images\akkaya.png" alt="aliakkaya" width="200"/>
+  <img src="\doc\images\akkaya.png" alt="aliakkaya" width="600"/>
 </p>
 
 ---
