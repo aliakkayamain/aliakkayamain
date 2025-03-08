@@ -33,8 +33,8 @@
 
 ### 📫 **Let's Connect!**
 
-- 📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/aliakkaya00)
+ 📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
+ 💼 [LinkedIn](https://linkedin.com/in/aliakkaya00)
 
  <!-- Sağ GIF -->
 <td width="30%" valign="top" align="right">
