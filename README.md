@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <!-- Sol Taraf -->
+    <!-- Sol Bölüm -->
     <td width="40%" valign="top">
 
 ### 👋 **I'm Ali Akkaya**
@@ -19,8 +19,8 @@
 
     </td>
 
-    <!-- Orta Contact -->
-    <td width="25%" valign="top" align="center">
+    <!-- Orta (Contact) -->
+    <td width="30%" valign="top" align="center">
 
 ### 📫 **Contact:**
 
@@ -29,9 +29,9 @@
 
     </td>
 
-    <!-- Sağ Taraf GIF -->
-    <td width="35%" valign="top" align="center">
-      <img src="doc/images/datadoesntlie.gif" width="240"/>
+    <!-- Sağ (GIF) -->
+    <td width="30%" valign="top" align="right">
+      <img src="doc/images/datadoesntlie.gif" width="250"/>
     </td>
   </tr>
 </table>
