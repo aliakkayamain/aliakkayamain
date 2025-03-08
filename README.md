@@ -23,7 +23,10 @@
     <!-- Orta - Contact -->
     <td width="35%" valign="top" align="center">
 
-### 📫 **Contact:**
+
+
+### 😄 **More About Me:**
+> I have extensive experience in high-performance computing and enjoy tackling complex machine learning challenges. 🚀
 
 📧 [E-mail](mailto:aliakkayamain@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/aliakkaya00)
@@ -31,7 +34,7 @@
 
  <!-- Sağ GIF -->
 <td width="30%" valign="top" align="right">
-      <img src="doc/images/datadoesntlie.gif" width="250"/>
+      <img src="doc/images/datadoesntlie.gif" width="300"/>
     </td>
   </tr>
 </table>
