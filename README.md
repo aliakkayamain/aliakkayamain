@@ -3,20 +3,27 @@
 </p>
 
 ---
+<table>
+  <tr>
+    <td width="70%" valign="top">
 
 ### 👋 **I'm Ali Akkaya**
 
 **Data Scientist & Machine Learning Enthusiast**
 
-- 📊 Data Science
-- 🤖 Machine Learning & AI
-- 🚀 High-Performance Computing
-- 💻 Software Development
+- 📊 Data Science  
+- 🤖 Machine Learning & AI  
+- 🚀 High-Performance Computing  
+- 💻 Software Development  
 
-<p align="right">
-  <img src="doc/images/datadoesntlie.gif" width="200"/>
-</p>
+</td>
+<td width="30%">
 
+<img src="doc/images/datadoesntlie.gif" width="200"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
