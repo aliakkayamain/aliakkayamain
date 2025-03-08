@@ -15,7 +15,6 @@
 - 🤖 AI & Machine Learning  
 - 🧠 AI Agents & Autonomous Systems
 - 🖌️ ComfyUI & Generative AI
-- 🚀 High-Performance Computing  
 - 💻 Software Development  
 
     </td>
