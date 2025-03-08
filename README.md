@@ -27,11 +27,10 @@
 📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/aliakkaya)
 
-    </td>
 
  <!-- Sağ GIF -->
 <td width="30%" valign="top" align="right">
-      <img src="doc/images/datadoesntlie.gif" width="250"/>
+      <img src="doc/images/datadoesntlie.gif" width="300"/>
     </td>
   </tr>
 </table>
