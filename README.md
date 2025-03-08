@@ -3,12 +3,12 @@
 </p>
 
 ---
+
 <table>
   <tr>
     <td valign="top">
 
 ### 👋 **I'm Ali Akkaya**
-
 **Data Scientist & Machine Learning Enthusiast**
 
 - 📊 Data Science  
@@ -16,17 +16,15 @@
 - 🚀 High-Performance Computing  
 - 💻 Software Development  
 
-    </td>
-    <td valign="top" align="right">
-
-<img src="doc/images/datadoesntlie.gif" width="200"/>
-
-    </td>
-  </tr>
-</table>
-
-
 ### 📫 **Contact:**
 - 📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/aliakkaya)
 
+</td>
+<td valign="top" align="right">
+
+<img src="doc/images/datadoesntlie.gif" width="200"/>
+
+</td>
+</tr>
+</table>
