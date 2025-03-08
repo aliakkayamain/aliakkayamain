@@ -26,25 +26,6 @@
 </table>
 
 
----
-
-### 🌱 **Currently Learning:**
-- Advanced Deep Learning Techniques
-
----
-
-### 💞️ **Open for Collaboration:**
-- Artificial Intelligence & Data Analytics projects
-
----
-
-### 🛠️ **Technical Skills:**
-- **Programming:** Python, C++, JavaScript, Vue  
-- **Libraries:** TensorFlow, scikit-learn, Pandas, NumPy  
-- **Tools:** Git, Docker, Kubernetes, Linux  
-
----
-
 ### 📫 **Contact:**
 - 📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/aliakkaya)
