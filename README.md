@@ -30,7 +30,7 @@
 
  <!-- Sağ GIF -->
 <td width="30%" valign="top" align="right">
-      <img src="doc/images/datadoesntlie.gif" width="300"/>
+      <img src="doc/images/datadoesntlie.gif" width="200"/>
     </td>
   </tr>
 </table>
