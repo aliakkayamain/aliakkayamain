@@ -6,10 +6,10 @@
 
 <table>
   <tr>
-    <td width="35%" valign="top">
+    <!-- Sol Taraf -->
+    <td width="40%" valign="top">
 
 ### 👋 **I'm Ali Akkaya**
-
 **Data Scientist & ML Enthusiast**
 
 - 📊 Data Science  
@@ -18,18 +18,20 @@
 - 💻 Software Development  
 
     </td>
-    
-    <td width="30%" valign="top" align="center">
+
+    <!-- Orta Contact -->
+    <td width="25%" valign="top" align="center">
 
 ### 📫 **Contact:**
 
-- 📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/aliakkaya)
+📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/aliakkaya)
 
     </td>
-    
-    <td width="35%" valign="top" align="right">
-      <img src="doc/images/datadoesntlie.gif" width="180"/>
+
+    <!-- Sağ Taraf GIF -->
+    <td width="35%" valign="top" align="center">
+      <img src="doc/images/datadoesntlie.gif" width="240"/>
     </td>
   </tr>
 </table>
