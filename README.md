@@ -11,9 +11,10 @@
 
 ### 👋 **I'm Ali Akkaya**
 **Data Scientist & ML Enthusiast**
-
 - 📊 Data Science  
-- 🤖 Machine Learning & AI  
+- 🤖 AI & Machine Learning  
+- 🧠 AI Agents & Autonomous Systems
+- 🖌️ ComfyUI & Generative AI
 - 🚀 High-Performance Computing  
 - 💻 Software Development  
 
@@ -24,8 +25,8 @@
 
 ### 📫 **Contact:**
 
-📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/aliakkaya)
+📧 [E-mail](mailto:aliakkayamain@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/aliakkaya00)
 
 
  <!-- Sağ GIF -->
