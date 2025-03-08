@@ -6,25 +6,30 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="35%" valign="top">
 
 ### 👋 **I'm Ali Akkaya**
-**Data Scientist & Machine Learning Enthusiast**
+
+**Data Scientist & ML Enthusiast**
 
 - 📊 Data Science  
 - 🤖 Machine Learning & AI  
 - 🚀 High-Performance Computing  
 - 💻 Software Development  
 
+    </td>
+    
+    <td width="30%" valign="top" align="center">
+
 ### 📫 **Contact:**
+
 - 📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/aliakkaya)
 
-</td>
-<td valign="top" align="right">
-
-<img src="doc/images/datadoesntlie.gif" width="200"/>
-
-</td>
-</tr>
+    </td>
+    
+    <td width="35%" valign="top" align="right">
+      <img src="doc/images/datadoesntlie.gif" width="180"/>
+    </td>
+  </tr>
 </table>
