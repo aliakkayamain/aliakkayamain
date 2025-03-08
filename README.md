@@ -5,7 +5,7 @@
 ---
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td valign="top">
 
 ### 👋 **I'm Ali Akkaya**
 
@@ -16,14 +16,15 @@
 - 🚀 High-Performance Computing  
 - 💻 Software Development  
 
-</td>
-<td width="30%">
+    </td>
+    <td valign="top" align="right">
 
 <img src="doc/images/datadoesntlie.gif" width="200"/>
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
@@ -48,8 +49,3 @@
 - 📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/aliakkaya)
 
----
-
-<p align="right">
-  <img src="doc/images/datadoesntlie.gif" width="200"/>
-</p>
