@@ -1,55 +1,43 @@
-
 <p align="center">
-  <img src="\doc\images\akkaya.png" alt="aliakkaya" width="600"/>
+  <img src="doc/images/akkaya.png" alt="aliakkaya" width="1000"/>
 </p>
 
-<img align="right" src="img/BearAndBull.gif" width="280">
+---
+
+### 👋 **I'm Ali Akkaya**
+
+**Data Scientist & Machine Learning Enthusiast**
+
+- 📊 Data Science
+- 🤖 Machine Learning & AI
+- 🚀 High-Performance Computing
+- 💻 Software Development
 
 ---
 
-### 👀 **I'm interested in:**
-- 📊 **Data Science**
-- 🤖 **Machine Learning**
-- 🧠 **Artificial Intelligence**
-- 🚀 **Software Development & High-Performance Computing**
-
----
-
-### 🌱 **I'm currently learning:**
+### 🌱 **Currently Learning:**
 - Advanced Deep Learning Techniques
-- Researching Data Science Applications
 
 ---
 
-### 💞️ **I'd love to collaborate on:**
-- Open-source projects related to Artificial Intelligence and Data Analytics
-- Innovative and impactful data-driven solutions
+### 💞️ **Open for Collaboration:**
+- Artificial Intelligence & Data Analytics projects
 
 ---
 
-### 🛠️ **Skills:**
-- **Programming:** Python, C++, JavaScript, Vue
-- **Frameworks & Libraries:** TensorFlow, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn
-- **DevOps & Tools:** Git, Docker, Kubernetes, Linux
+### 🛠️ **Technical Skills:**
+- **Programming:** Python, C++, JavaScript, Vue  
+- **Libraries:** TensorFlow, scikit-learn, Pandas, NumPy  
+- **Tools:** Git, Docker, Kubernetes, Linux  
 
 ---
 
-### 📫 **Get in Touch:**
-- **Email:** [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)
-- **LinkedIn:** [linkedin.com/in/aliakkaya](https://linkedin.com/in/aliakkaya)
+### 📫 **Contact:**
+- 📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/aliakkaya)
 
 ---
 
-### 😄 **More About Me:**
-> I have extensive experience in high-performance computing and enjoy tackling complex machine learning challenges. 🚀
-
----
-
-✨ _**Let's connect and build something amazing together!**_ ✨
-
---- 
-
-### 📊 Veri Yalan Söylemez!
-
-![Data Doesn't Lie](doc/images/datadoesntlie.gif)
-
+<p align="right">
+  <img src="doc/images/datadoesntlie.gif" width="200"/>
+</p>
