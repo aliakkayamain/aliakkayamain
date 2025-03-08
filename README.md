@@ -26,11 +26,15 @@
 
 
 ### 😄 **More About Me:**
-> I have extensive experience in high-performance computing and enjoy tackling complex machine learning challenges. 🚀
 
-📧 [E-mail](mailto:aliakkayamain@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/aliakkaya00)
+🚀 Passionate about solving challenging problems and diving into complex machine learning tasks. Experienced in high-performance computing, I'm always eager to explore innovative ideas!
 
+---
+
+### 📫 **Let's Connect!**
+
+- 📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/aliakkaya00)
 
  <!-- Sağ GIF -->
 <td width="30%" valign="top" align="right">
