@@ -20,7 +20,7 @@
     </td>
 
     <!-- Orta - Contact -->
-    <td width="30%" valign="top" align="center">
+    <td width="35%" valign="top" align="center">
 
 ### 📫 **Contact:**
 
@@ -30,7 +30,7 @@
 
  <!-- Sağ GIF -->
 <td width="30%" valign="top" align="right">
-      <img src="doc/images/datadoesntlie.gif" width="200"/>
+      <img src="doc/images/datadoesntlie.gif" width="250"/>
     </td>
   </tr>
 </table>
