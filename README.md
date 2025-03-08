@@ -1,12 +1,47 @@
-# 👋 Hello, I'm @aliakkayamain
-• 👀 I am interested in Data Science, Machine Learning, and Software Development.  
-• 🌱 I am currently learning advanced deep learning techniques and researching data science applications.  
-• 💞️ I would like to collaborate on open source projects related to artificial intelligence and data analytics.  
-• 📫 How to contact me: aliakkayamain@gmail.com  
-• 😄 About me: I have experience in high-performance computing and love to dive into complex machine learning problems! 🚀  
+<h1 align="center">Hi there 👋 I'm Ali Akkaya</h1>
 
-<!---
-aliakkayamain/aliakkayamain ✨ is a private ✨ repository because `README.md` (this file) appears in your GitHub profile.
-You can click on the Preview link to take a look at the changes you have made.
---->
+<p align="center">
+  <img src="\doc\images\akkaya.png" alt="aliakkaya" width="200"/>
+</p>
 
+---
+
+### 👀 **I'm interested in:**
+- 📊 **Data Science**
+- 🤖 **Machine Learning**
+- 🧠 **Artificial Intelligence**
+- 🚀 **Software Development & High-Performance Computing**
+
+---
+
+### 🌱 **I'm currently learning:**
+- Advanced Deep Learning Techniques
+- Researching Data Science Applications
+
+---
+
+### 💞️ **I'd love to collaborate on:**
+- Open-source projects related to Artificial Intelligence and Data Analytics
+- Innovative and impactful data-driven solutions
+
+---
+
+### 🛠️ **Skills:**
+- **Programming:** Python, C++, JavaScript, Vue
+- **Frameworks & Libraries:** TensorFlow, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn
+- **DevOps & Tools:** Git, Docker, Kubernetes, Linux
+
+---
+
+### 📫 **Get in Touch:**
+- **Email:** [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)
+- **LinkedIn:** [linkedin.com/in/aliakkaya](https://linkedin.com/in/aliakkaya)
+
+---
+
+### 😄 **More About Me:**
+> I have extensive experience in high-performance computing and enjoy tackling complex machine learning challenges. 🚀
+
+---
+
+✨ _**Let's connect and build something amazing together!**_ ✨
