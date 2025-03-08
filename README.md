@@ -13,6 +13,11 @@
 - 🚀 High-Performance Computing
 - 💻 Software Development
 
+<p align="right">
+  <img src="doc/images/datadoesntlie.gif" width="200"/>
+</p>
+
+
 ---
 
 ### 🌱 **Currently Learning:**
