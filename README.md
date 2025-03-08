@@ -46,3 +46,10 @@
 ---
 
 ✨ _**Let's connect and build something amazing together!**_ ✨
+
+--- 
+
+### 📊 Veri Yalan Söylemez!
+
+![Data Doesn't Lie](doc/images/datadoesntlie.gif)
+
