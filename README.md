@@ -12,14 +12,14 @@
     <!-- Sol Taraf -->
     <td width="40%" valign="top">
 
-### 👋 **I'm Ali Akkaya**
-**Data Scientist & ML Enthusiast**
-- 📊 Data Science  
-- 🤖 AI & Machine Learning  
-- 🧠 AI Agents & Autonomous Systems
-- 🖌️ ComfyUI & Generative AI
-- 💻 Software Development  
-
+### **Data Scientist & ML Enthusiast**
+- 🤖 Agent Development (Langflow, n8n)
+- 🧠 LLM Development & Integration (Large Language Models)
+- 👁️ Computer Vision
+- 🔄 Workflow Automation (Node-RED & similar tools)
+- 🐳 Containerization & Orchestration (Docker, Docker Compose)
+- 🔌 API Design & Development (RESTful APIs, gRPC, GraphQL)
+- 💻 Software Development
     </td>
 
     <!-- Orta - Contact -->
