@@ -1,34 +1,39 @@
 <p align="center">
-  <img src="doc/images/akkaya.png" alt="aliakkaya" width="1000"/>
+  <img src="doc/images/akkaya.png" alt="aliakkayamain" width="1000"/>
 </p>
 
-
-![Hoşgeldin Mesajı](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F72802&width=435&lines=Hello%2C+I'm+Ali;Contact+Me...)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F72802&width=435&lines=Hello%2C+I%27m+Ali;Contact+Me..."
+    alt="Hoşgeldin Mesajı"
+  />
+</p>
 
 ---
 
 <table width="100%">
   <tr>
-    <!-- 1. Kolon: Skills Grubu A -->
+    <!-- 1. Sütun -->
     <td width="33%" valign="top">
-      ### **Technical Skills (A)**
+      ### **Data Scientist & ML Enthusiast**
       - 🤖 Agent Development (Langflow, n8n)  
       - 🧠 LLM Development & Integration  
       - 👁️ Computer Vision  
-    </td>
-
-    <!-- 2. Kolon: Skills Grubu B -->
-    <td width="33%" valign="top">
-      ### **Technical Skills (B)**
       - 🔄 Workflow Automation (Node-RED & similar tools)  
-      - 🐳 Containerization & Orchestration (Docker, Docker Compose)  
-      - 🔌 API Design & Development (RESTful APIs, gRPC, GraphQL)  
-      - 💻 Software Development  
     </td>
 
-    <!-- 3. Kolon: Hakkımda + Görsel -->
+    <!-- 2. Sütun -->
+    <td width="33%" valign="top">
+      ### **Infrastructure & APIs**
+      - 🐳 Containerization (Docker, Docker Compose)  
+      - 🔌 API Design & Development (RESTful, gRPC, GraphQL)  
+      - ☁️ Cloud Integration (AWS, GCP, Azure)  
+      - 🛠 CI/CD & DevOps Practices  
+    </td>
+
+    <!-- 3. Sütun -->
     <td width="33%" valign="top" align="center">
-      ### 😄 **More About Me**  
+      ### 😄 **More About Me**
       🚀 Passionate about solving challenging problems and diving into complex ML tasks.  
       Experienced in high-performance computing!
 
@@ -36,7 +41,7 @@
       📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
       💼 [LinkedIn](https://linkedin.com/in/aliakkaya00)
 
-      <br>
+      <br/>
       <img src="doc/images/datadoesntlie.gif" width="200"/>
     </td>
   </tr>
