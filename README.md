@@ -2,44 +2,36 @@
   <img src="doc/images/akkaya.png" alt="aliakkaya" width="1000"/>
 </p>
 
-
 ---
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F72802&width=435&lines=Hello%2C+I%27m+Ali;Contact+Me..."
-    alt="Hoşgeldin Mesajı"
-  />
-</p>
-
-
----
-
-<table width="100%">
+<table>
   <tr>
-    <td width="33%" valign="top">
-      ### **Data Scientist & ML Enthusiast**
-      - 🤖 Agent Development (Langflow, n8n)<br>
-      - 🧠 LLM Development & Integration<br>
-      - 👁️ Computer Vision<br>
-      - 🔄 Workflow Automation (Node-RED & similar tools)
+    <!-- Sol Taraf -->
+    <td width="40%" valign="top">
+      ### 👋 **I'm Ali Akkaya**
+      **Data Scientist & ML Enthusiast**
+      - 📊 Data Science  
+      - 🤖 AI & Machine Learning  
+      - 🧠 AI Agents & Autonomous Systems  
+      - 🖌️ ComfyUI & Generative AI  
+      - 💻 Software Development  
     </td>
 
+    <!-- Orta - Contact -->
+    <td width="35%" valign="top" align="center">
+      ### 😄 **More About Me:**
+      🚀 Passionate about solving challenging problems and diving into complex machine learning tasks. Experienced in high-performance computing, I'm always eager to explore innovative ideas!
 
-  <td width="33%" valign="top" align="center">
-      ### 😄 **More About Me**
-      🚀 Passionate about solving challenging problems and diving into complex ML tasks.<br>
-      Experienced in high-performance computing!<br><br>
+      ---
+      
+      ### 📫 **Let's Connect!**
+      📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
+      💼 [LinkedIn](https://linkedin.com/in/aliakkaya00)
+    </td>
 
-      **📫 Let’s Connect**<br>
-      📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)<br>
-      💼 [LinkedIn](https://linkedin.com/in/aliakkaya00)<br><br><br><br>
-  </td>
-
-
-  <td width="33%" valign="top" align="center">
-      <img src="doc/images/datadoesntlie.gif" width="200"/><br><br><br><br>
-  </td>
-
+    <!-- Sağ GIF -->
+    <td width="25%" valign="top" align="right">
+      <img src="doc/images/datadoesntlie.gif" width="300"/>
+    </td>
   </tr>
 </table>
