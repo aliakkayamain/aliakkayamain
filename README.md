@@ -16,8 +16,8 @@
 ### 👋 **I'm Ali Akkaya**
 **Data Scientist & ML Enthusiast**
 - 📊 Data Science  
-- 🤖 AI & Machine Learning  
-- 🧠 AI Agents & Autonomous Systems
+- 🤖 Machine Learning & Deep Learning   
+- 🧠 AI Agents (Langflow, n8n)
 - 🖌️ ComfyUI & Generative AI
 - 💻 Software Development  
 
@@ -25,8 +25,6 @@
 
     <!-- Orta - Contact -->
     <td width="35%" valign="top" align="center">
-
-
 
 ### 😄 **More About Me:**
 
