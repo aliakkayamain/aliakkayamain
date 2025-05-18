@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="doc/images/akkaya.png" alt="aliakkayamain" width="1000"/>
+  <img src="doc/images/akkaya.png" alt="aliakkaya" width="1000"/>
 </p>
+
+
+---
 
 <p align="center">
   <img
@@ -9,40 +12,34 @@
   />
 </p>
 
+
 ---
 
 <table width="100%">
   <tr>
-    <!-- 1. Sütun -->
     <td width="33%" valign="top">
       ### **Data Scientist & ML Enthusiast**
-      - 🤖 Agent Development (Langflow, n8n)  
-      - 🧠 LLM Development & Integration  
-      - 👁️ Computer Vision  
-      - 🔄 Workflow Automation (Node-RED & similar tools)  
+      - 🤖 Agent Development (Langflow, n8n)<br>
+      - 🧠 LLM Development & Integration<br>
+      - 👁️ Computer Vision<br>
+      - 🔄 Workflow Automation (Node-RED & similar tools)
     </td>
 
-    <!-- 2. Sütun -->
-    <td width="33%" valign="top">
-      ### **Infrastructure & APIs**
-      - 🐳 Containerization (Docker, Docker Compose)  
-      - 🔌 API Design & Development (RESTful, gRPC, GraphQL)  
-      - ☁️ Cloud Integration (AWS, GCP, Azure)  
-      - 🛠 CI/CD & DevOps Practices  
-    </td>
 
-    <!-- 3. Sütun -->
-    <td width="33%" valign="top" align="center">
+  <td width="33%" valign="top" align="center">
       ### 😄 **More About Me**
-      🚀 Passionate about solving challenging problems and diving into complex ML tasks.  
-      Experienced in high-performance computing!
+      🚀 Passionate about solving challenging problems and diving into complex ML tasks.<br>
+      Experienced in high-performance computing!<br><br>
 
-      **📫 Let's Connect**  
-      📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)  
-      💼 [LinkedIn](https://linkedin.com/in/aliakkaya00)
+      **📫 Let’s Connect**<br>
+      📧 [aliakkayamain@gmail.com](mailto:aliakkayamain@gmail.com)<br>
+      💼 [LinkedIn](https://linkedin.com/in/aliakkaya00)<br><br><br><br>
+  </td>
 
-      <br/>
-      <img src="doc/images/datadoesntlie.gif" width="200"/>
-    </td>
+
+  <td width="33%" valign="top" align="center">
+      <img src="doc/images/datadoesntlie.gif" width="200"/><br><br><br><br>
+  </td>
+
   </tr>
 </table>
